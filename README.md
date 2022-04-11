@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar Sharma</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-
+ <p align="center"><img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt="gif"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloksharma01&label=Profile%20views&color=0e75b6&style=flat" alt="aloksharma01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aloksharma01" alt="aloksharma01" /></a> </p>
