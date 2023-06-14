@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://alok-portfolio-01.netlify.app/](https://alok-portfolio-01.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://alok-portfolio-01.netlify.app/](https://alok-portfolio-01.vercel.app/)
 
 - 💬 Ask me about **react,MongoDB,JavaScript,HTML,CSS**
 
 - 📫 How to reach me **aloksj788@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BzEMsgPIkSWEjNWwMiLruv_eKiS_wo_6/view?usp=sharing](https://drive.google.com/file/d/1BzEMsgPIkSWEjNWwMiLruv_eKiS_wo_6/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BzEMsgPIkSWEjNWwMiLruv_eKiS_wo_6/view?usp=sharing](https://drive.google.com/file/d/1YJ_4Ht6iiomb3F2YLMW8J0PebnkoxWcq/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
