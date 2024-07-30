@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aloksj788@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BzEMsgPIkSWEjNWwMiLruv_eKiS_wo_6/view?usp=sharing](https://drive.google.com/file/d/1YJ_4Ht6iiomb3F2YLMW8J0PebnkoxWcq/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1pyAnzrkoLx1mDAl8BY9QoMztlYHy_SDe?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
