@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://alok-portfolio-01.netlify.app/](https://alok-portfolio-01.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://alok-portfolio-01.netlify.app/](https://alok-info.vercel.app/)
 
 - 💬 Ask me about **react,MongoDB,JavaScript,HTML,CSS**
 
